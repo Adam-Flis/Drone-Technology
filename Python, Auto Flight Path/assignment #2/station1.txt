@@ -1,0 +1,17 @@
+command 
+takeoff 
+delay 1
+speed 50
+
+down 30
+delay 1
+forward 50
+delay 1
+left 120
+delay 1
+back 70
+delay 1
+right 135
+delay 1
+
+land

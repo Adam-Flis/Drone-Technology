@@ -1,0 +1,15 @@
+command
+takeoff
+delay 2
+speed 50 
+forward 265
+delay 1
+land
+delay 1 
+
+command 
+takeoff
+delay 2 
+back 130
+delay 1
+land

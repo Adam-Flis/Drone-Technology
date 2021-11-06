@@ -1,0 +1,25 @@
+command
+takeoff
+delay 2
+up 110
+delay 2
+forward 260
+delay 2
+land
+delay 2
+command
+takeoff
+delay 2
+cw 360
+delay 1
+ccw 360
+delay 1
+cw 180
+delay 2
+forward 100
+delay 2
+flip f
+delay 2
+forward 100
+delay 2
+land

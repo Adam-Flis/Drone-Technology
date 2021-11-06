@@ -1,0 +1,31 @@
+command 
+takeoff
+delay 1
+speed 75
+
+cw 90
+delay 1
+forward 60
+delay 1
+
+ccw 90
+delay 1
+forward 140
+delay 1
+
+ccw 90
+delay 1
+forward 165
+delay 1
+
+ccw 90
+delay 1
+forward 175
+delay 1
+
+ccw 90
+delay 1
+forward 70
+delay 1
+
+land 
